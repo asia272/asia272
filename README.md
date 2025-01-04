@@ -19,6 +19,8 @@ I'm a Full Stack web developer with a background in ICS and computer software. C
 ### Databases:
 - MySQL
 - MongoDB
+- ![Asia's GitHub stats](https://github-readme-stats.vercel.app/api?username=asia272&show_icons=true&theme=radical)
+
 
 ### Additional Skills:
 - Linux
