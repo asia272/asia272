@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Asia
+I'm a Full Stack web developer with a background in ICS and computer software. Currently, I'm pursuing a BS in Computer Science.
 
-<!--
-**asia272/asia272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🌱 I'm passionate about creating user-friendly web interfaces.  
+💼 Actively seeking opportunities to work on web development projects.  
 
-Here are some ideas to get you started:
+## Skills
+### Frontend:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend:
+- Node.js
+- Express
+
+### Databases:
+- MySQL
+- MongoDB
+
+### Additional Skills:
+- Linux
+- Git
+
+❤️ Love the art of coding and always eager to learn new technologies.
+
+Let's build the web together! 😊
+
+**Contributions are always welcome. 😊**
+
