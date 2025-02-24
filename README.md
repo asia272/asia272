@@ -10,13 +10,12 @@ I'm a frontend web developer with a background in ICS and computer software. Cur
 - HTML
 - CSS
 - JavaScript
+- React
 - Bootstrap
 - Node.js
 - Express
 - MySQL
 - MongoDB
-- 
-### Additional Skills:
 - Linux
 - Git
   
