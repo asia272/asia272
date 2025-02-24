@@ -20,8 +20,8 @@ I'm a frontend web developer with a background in ICS and computer software. Cur
 - Linux
 - Git
   
-- ❤️ Love the art of coding and always eager to learn new technologies.
-Let's build the web together! 😊
+- ❤️ Love the art of coding and always eager to learn new technologies.
+- Let's build the web together! 😊
 
 **Contributions are always welcome. 😊**
 
