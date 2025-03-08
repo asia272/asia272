@@ -1,4 +1,4 @@
- <h1 style="color: #ff6600;">Hi, I'm Asia Ashraf</h1>
+# Hi, I'm Asia Ashraf
 
 I'm a frontend web developer with a background in ICS and computer software. Currently, I'm pursuing a BS in Computer Science while working, exploring, and learning backend development. I'm also discovering the latest trends in frontend development.
 
