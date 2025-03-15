@@ -21,10 +21,12 @@ I'm a frontend web developer with a background in ICS and computer software. Cur
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-  
+
 - ❤️ Love the art of coding and always eager to learn new technologies.
 - Let's build the web together! 😊
 
+## 📫 Contact Me
+📧 Email: asiaashraf7272@gmail.com  
+🌐 Portfolio: [asia-ashraf.vercel.app](https://asia-ashraf.vercel.app/)  
+
 **Contributions are always welcome. 😊**
-
-
