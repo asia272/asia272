@@ -5,7 +5,7 @@ I'm a frontend web developer with a background in ICS and computer software. Cur
 ## About Me
 🌱 I'm passionate about creating user-friendly web interfaces.  
 💼 Actively seeking opportunities to work on web development projects.  
-🚀 Currently exploring backend development.
+🚀 Currently exploring backend development and discovering the latest frontend trends
 
 ## Skills  
 <p align="left">
