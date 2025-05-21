@@ -4,7 +4,10 @@ I'm a frontend web developer with a background in ICS and computer software. Cur
 
 ## About Me
 🌱 I'm passionate about creating user-friendly web interfaces.  
-💼 Actively seeking opportunities to work on web development projects.  
+💼 Available for hire | Open to freelance and junior front-end roles   
+📧 Email: asiaashraf7272@gmail.com  
+🌍 Based in Pakistan | Open to remote jobs  
+✨ Passionate about building real-world React apps
 🚀 Currently exploring backend development and discovering the latest frontend trends
 
 ## Skills  
