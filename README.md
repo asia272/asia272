@@ -8,6 +8,11 @@
   🚀 Next.js Full-Stack Developer | Frontend Developer
 </h3>
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Developer;Frontend+Developer;React+Developer" />
+</p>
 ---
 
 ## 🧑‍💻 About Me
@@ -40,14 +45,6 @@
 - Vercel Deployment
 - Responsive UI/UX Design
 - Component-Based Architecture
-
----
-
-## 🔥 Animated Intro
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Developer;Frontend+Developer;React+Developer" />
-</p>
 
 ---
 
