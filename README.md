@@ -1,4 +1,3 @@
-# 🚀 Web Dev Journey – Portfolio & Projects
 
 Hi, I'm **Asia Ashraf** 👋  
 A passionate **Frontend & Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
