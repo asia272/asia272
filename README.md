@@ -45,6 +45,14 @@
 
 ---
 
+## 💼 Open to Work
+
+- 💻 Freelance Projects  
+- 🤝 Collaboration  
+- 🌍 Remote Opportunities  
+
+---
+
 ## 🤝 Let's Connect
 
 💬 Let's build the web together! 🚀  
