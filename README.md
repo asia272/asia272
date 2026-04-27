@@ -1,18 +1,18 @@
-
+# 🚀 Web Dev Journey
 
 <h1 align="center">
   Hi 👋, I'm Asia Ashraf
 </h1>
 
 <h3 align="center">
-  🚀 Next.js Full-Stack Developer | Building Modern Web Applications
+  🚀 Next.js Full-Stack Developer | Frontend Developer
 </h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Passionate **Next.js Full-Stack Developer**
+- 💻 Passionate **Full-Stack Developer (Next.js)**
 - ⚡ Focused on building **scalable & user-friendly applications**
 - 🎯 Currently improving **real-world full-stack skills**
 - ❤️ Love the art of coding and always eager to learn new technologies
@@ -43,10 +43,10 @@
 
 ---
 
-## 🔥 Animated Typing Intro
+## 🔥 Animated Intro
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Next.js+Full+Stack+Developer;React+%7C+Tailwind+%7C+TypeScript;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Developer;Frontend+Developer;React+Developer" />
 </p>
 
 ---
