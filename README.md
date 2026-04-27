@@ -8,11 +8,10 @@
   🚀 Next.js Full-Stack Developer | Frontend Developer
 </h3>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Developer;Frontend+Developer;React+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Next.js+Developer;Frontend+Developer;React+Developer" />
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
