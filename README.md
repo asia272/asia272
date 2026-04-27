@@ -1,12 +1,25 @@
 
-Hi, I'm **Asia Ashraf** 👋  
-A passionate **Frontend & Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+
+<h1 align="center">
+  Hi 👋, I'm Asia Ashraf
+</h1>
+
+<h3 align="center">
+  🚀 Next.js Full-Stack Developer | Building Modern Web Applications
+</h3>
 
 ---
 
-## 💻 Current Skill Level
+## 🧑‍💻 About Me
 
-I have moved beyond beginner level and now build **real-world full-stack applications**.
+- 💻 Passionate **Next.js Full-Stack Developer**
+- ⚡ Focused on building **scalable & user-friendly applications**
+- 🎯 Currently improving **real-world full-stack skills**
+- ❤️ Love the art of coding and always eager to learn new technologies
+
+---
+
+## 💻 Skills
 
 ### 🧠 Frontend
 - HTML5, CSS3 (Responsive Design, Flexbox, Grid)
@@ -27,14 +40,32 @@ I have moved beyond beginner level and now build **real-world full-stack applica
 - Vercel Deployment
 - Responsive UI/UX Design
 - Component-Based Architecture
-- 
+
 ---
 
-- ❤️ Love the art of coding and always eager to learn new technologies.
-- Let's build the web together! 😊
+## 🔥 Animated Typing Intro
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Next.js+Full+Stack+Developer;React+%7C+Tailwind+%7C+TypeScript;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://asia-ashraf.vercel.app/
+
+---
 
 ## 📫 Contact Me
-📧 Email: asiaashraf7272@gmail.com  
-🌐 Portfolio: [asia-ashraf.vercel.app](https://asia-ashraf.vercel.app/)  
 
-**Contributions are always welcome. 😊**
+📧 Email: asiaashraf7272@gmail.com  
+
+---
+
+## 🤝 Let's Connect
+
+💬 Let's build the web together! 🚀  
+✨ Contributions are always welcome.
+
+---
